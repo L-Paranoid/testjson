@@ -2,8 +2,8 @@
   "User": {
     "name": { "string": { "minLength": 3, "maxLength": 10 } },
     "online": { "boolean": {} },
-    "picture": { "regexp": "https://…" }
-  },
-  "Url":"https://www.baidu.com",
+    "picture": { "regexp": "https://…" },
+    "Url":"https://www.baidu.com",
   "isToUrl":false
+  }
 }
